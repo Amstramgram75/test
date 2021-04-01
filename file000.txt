@@ -1,2 +1,2 @@
 Un fichier texte d'origine
-modif 0001
+modif 0002
